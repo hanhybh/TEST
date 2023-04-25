@@ -1,0 +1,7 @@
+Added Class: Name=DDR_ADDR_CTRL
+Added Class: Name=DDR_BANK0
+Added Class: Name=DDR_BANK1
+Added Class: Name=DDR_BANK2
+Added Class: Name=DDR_BANK3
+Added Class: Name=DDR_DRAM_CLK
+Added Class: Name=DDR_ECC

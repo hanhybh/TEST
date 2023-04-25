@@ -1,0 +1,44 @@
+Record=TopLevelDocument|FileName=01-TABLE OF CONTENTS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=02-REVISION HISTORY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=03-BLOCK DIAGRAM_CP BOARD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=04-BLOCK DIAGRAM - XDS110.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=05-POWER FLOW DIAGRAM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=06-POWER SEQUENCE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=07-GPIO MAPPING TABLE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=08-I2C TREE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=09-SPI TREE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=10-SoC CLOCK AND RESET.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=11-SoC POWER1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=12-SoC POWER2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=13-SoC POWER3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=14-SoC POWER4.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=15-DDR4 DEVICES.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=16-DDR4 ECC AND TERMINATIONS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=17-eMMC FLASH_SDCARD INTERFACE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=18-OSPI FLASH AND SPI NOR FLASH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=19-EEPROM,PRESENCE DETECTION & TEMP SENSOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=20-RGMII ETHERNET PHY - ICSSG PRG2_PRU0.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=21-RGMII ETHERNET PHY - ICSSG PRG2_PRU1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=22-RGMII ETHERNET PHY - MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=23-TEST AUTOMATION.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=24-BOOT MODE BUFFER AND SWITCHES.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=25-CURRENT MONITORING DEVICES.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=26-XDS110 DEBUGGER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=27-JTAG BUFFER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=28-MIPI 60 PIN CONNECTOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=29-USB 2.0 INTERFACE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=30-FT4232 LEVEL TRANSLATOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=31-FT4232 UART TO USB BRIDG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=32-APPLICATION BOARD CONNECTOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=33-SOC_GENERAL AND MCU GENERAL.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=34-SERDES AND DISPLAY INTERFACE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=35-CSI-GPM-CDSS INTERFACE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=36-ETHERNET PHY CLOCK GENERATOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=37-ETHERNET LEDs.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=38-TEST HEADER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=39-VOLTAGE SUPERVISOR AND WKUP LEDs.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=40-PRE_REG AND SERDES POWER SUPPLY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=41-SoC POWER SUPPLY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=42-PERIPHERAL POWER SUPPLY.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=43-OVER VOLTAGE PROTECTION CKT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01-TABLE OF CONTENTS.SchDoc|FileName=44-HARDWARE SCHEMATICS.SchDoc|SheetNumber= 
